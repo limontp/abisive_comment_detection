@@ -7,8 +7,8 @@ There is a total of 20214 labelled data in the dataset. **dataset18000.txt** con
 - 4 -> Political
 
 The number of comment in each category is as follow:
-![data_freq](https://user-images.githubusercontent.com/6221138/141078802-6b126c81-b939-4623-942a-b6e2ce7ff0a9.png)
+![data_freq](https://user-images.githubusercontent.com/6221138/141079195-02332d6c-c655-4324-a02a-5859d3374811.jpg)
 
 ## Result 
 The comparison of resulting accuracy of different ML and deep learning algorithms are:
-![result](https://user-images.githubusercontent.com/6221138/141078477-1fe8bbf4-fa0b-46ee-8060-47dbec677347.png)
+![result](https://user-images.githubusercontent.com/6221138/141079191-2574f025-91a9-4f0d-82ff-2a65d6ce7bc1.jpg)
